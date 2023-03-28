@@ -1,0 +1,4 @@
+3
+Boca,River,0,0
+San Lorenzo,Huracán,2,0
+Independiente,Racing,3,0
